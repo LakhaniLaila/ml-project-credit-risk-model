@@ -1,2 +1,2 @@
 # ml-project-credit-risk-model
-Credit Risk Model
+Credit Risk Model Project
